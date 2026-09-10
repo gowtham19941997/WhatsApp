@@ -9,7 +9,3 @@ This is whats app code:
 4.Attachmene(Image, Audio, Video) 
 
 5.Hiding Last seen
-
-6.Added Audio call feature
-
-7.Added Video call feature

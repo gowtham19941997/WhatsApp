@@ -6,7 +6,7 @@ This is whats app code:
 
 3.Last Seen
 
-4.Attachmene(Image, Audio, Video) 
+4.Attachmene(Image, Audio, Video, Documents) 
 
 5.Hiding Last seen
 
